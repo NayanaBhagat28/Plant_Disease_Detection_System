@@ -184,5 +184,3 @@ Contributions are welcome!
 This project was developed as part of academic and practical exploration in Machine Learning and Artificial Intelligence applications in agriculture.
 
 ---
-
-⭐ If you found this project useful, consider giving it a star!
